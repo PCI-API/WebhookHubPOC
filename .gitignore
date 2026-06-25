@@ -1,0 +1,10 @@
+node_modules
+dist/
+*.js.map
+
+/src/generated/prisma
+.env
+.prettierrc
+.eslint.config.js
+eslint.config.js
+.vscode/
